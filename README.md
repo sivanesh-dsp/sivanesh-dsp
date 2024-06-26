@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivanesh B</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A Passionate DevOps Engineer from India</h3>
 
 ## About me:
 - 🌱 I’m currently learning **DevOps tools and Python scripting**
