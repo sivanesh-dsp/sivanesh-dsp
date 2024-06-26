@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sivanesh B</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 ## About me:
-- 🌱 I’m currently learning **web development and api**
+- 🌱 I’m currently learning **DevOps tools and Python scripting**
 
 - 💬 Ask me about **who are you really?? || python && javascript**
 
